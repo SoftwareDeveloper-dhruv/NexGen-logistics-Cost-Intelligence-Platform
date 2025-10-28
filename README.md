@@ -103,7 +103,7 @@ Data Handling	Pandas, NumPy
 ⚙️ Installation and Setup :
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/nexgen-logistics-cost-intelligence.git
+git clone https://github.com/SoftwareDeveloper-dhruv/NexGen-logistics-Cost-Intelligence-Platform
 cd nexgen-logistics-cost-intelligence
 
 
@@ -181,4 +181,5 @@ AI-based customer sentiment analysis
 
 Developed by: Dhruv 
 Year: 2025
+
 Technologies: Python | Streamlit | Plotly | scikit-learn
